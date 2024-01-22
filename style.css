@@ -1,0 +1,52 @@
+.navbar {
+    padding: 10px;
+}
+
+.right-buttons {
+    display: flex;
+}
+
+div .new-post, div .dropdown-center {
+    margin: 10px;
+}
+
+.modal-body label {
+    padding-bottom: 10px;
+}
+
+.modal-body button {
+    margin: 10px 2px;
+}
+
+.card {
+    margin: 5px auto;
+    width: 600px;
+}
+
+.card-header {
+    padding: .75rem 15px;
+}
+
+.header {
+    display: inline-block;
+}
+
+.btn-link {
+    float: right;
+    color: gray;
+    padding-right: 0px;
+}
+
+.card-body {
+    padding: 15px;
+}
+
+.comment {
+    color: #CDCCCC;
+    display: inline-block;
+    width: 88%;
+}
+
+.card-body p {
+    margin: 20px;
+}
